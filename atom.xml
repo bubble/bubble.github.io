@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bubble.github.io</id>
     <title>Mihai&apos;s Bubble</title>
-    <updated>2020-08-05T06:20:29.572Z</updated>
+    <updated>2020-08-05T06:24:43.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bubble.github.io"/>
     <link rel="self" href="https://bubble.github.io/atom.xml"/>
-    <subtitle>bubble.github.io</subtitle>
+    <subtitle>bubble.github.io | mail to   bubblemail@126.com</subtitle>
     <logo>https://bubble.github.io/images/avatar.png</logo>
     <icon>https://bubble.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mihai&apos;s Bubble</rights>
