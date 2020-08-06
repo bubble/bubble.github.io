@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bubble.github.io</id>
     <title>Mihai&apos;s Bubble</title>
-    <updated>2020-08-06T06:10:05.161Z</updated>
+    <updated>2020-08-06T10:28:28.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bubble.github.io"/>
     <link rel="self" href="https://bubble.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://bubble.github.io/images/avatar.png</logo>
     <icon>https://bubble.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mihai&apos;s Bubble</rights>
+    <entry>
+        <title type="html"><![CDATA[OUT OF MY EXPERTATION!]]></title>
+        <id>https://bubble.github.io/post/out-of-my-expertation/</id>
+        <link href="https://bubble.github.io/post/out-of-my-expertation/">
+        </link>
+        <updated>2020-08-06T10:05:19.000Z</updated>
+        <content type="html"><![CDATA[<p>I heard about the series,NO GOOD NICK,had been cut from a chinese website.There is no more season two.I didn't doubt check this sourse at IMDB.But I find it update today.HAHA~the news sometimes get twisted through passing,especially from one language to another.It's not easy to shift our mind to dig deeper,judging so fast seems like a smartpants.But is that true? The series are about a girl,Nick,using the fake id to fraud the Thomsons to get money helping her father get out of jail.Talk later,Bye~</p>
+]]></content>
+    </entry>
 </feed>
